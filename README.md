@@ -1,4 +1,5 @@
-# learning-note
+# 一起快乐八股
+# gd-learning-note
 > Motivation、Passion、Evolution
 ## Java相关
 - [Java基础](https://github.com/rbmonster/learning-note/blob/master/src/main/java/com/toc/JAVA_BASE.md)
@@ -88,4 +89,4 @@
 | [system-design](https://github.com/soulmachine/system-design/blob/master/cn/SUMMARY.md) | 一位博主的系统设计总结（很久未更新，可做参考） |
 | [日拱一兵](https://dayarch.top/) | 挺用心的一个Java博主，解读Java相关技术 |
 | [美团技术团队](https://tech.meituan.com/) | 美团技术团队永远的神，深度解读技术 |
-# 快乐八股
+
